@@ -11,7 +11,7 @@ speaker = tts.init()
 speaker.setProperty('rate', 150)
 
 # Set the todo list
-todo_list = ['Go Shopping', 'Clean Room']
+todo_list = []
 
 def add_todo():
   global recognizer
