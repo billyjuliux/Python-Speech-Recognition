@@ -3,7 +3,7 @@
     {
       "tag": "greeting",
       "patterns": ["Hello", "Hi"],
-      "responses": ["Yo sup"]
+      "responses": [""]
     },
     {
       "tag": "add_todo",
