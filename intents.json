@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hello", "Hi"],
+      "responses": ["Yo sup"]
+    },
+    {
+      "tag": "add_todo",
+      "patterns": ["New to do"],
+      "responses": [""]
+    },
+    {
+      "tag": "show_todos",
+      "patterns": ["Show to do"],
+      "responses": [""]
+    },
+    {
+      "tag": "reset_todos",
+      "patterns": ["Delete all to do, Reset my to do"],
+      "responses": [""]
+    },
+    {
+      "tag": "exit",
+      "patterns": ["Bye", "Goodbye"],
+      "responses": [""]
+    }
+  ]
+}
